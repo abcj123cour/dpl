@@ -7,7 +7,7 @@
 cube(x)
 }
 \arguments{
-\item{x}{Number to be cubed}
+\item{x}{Number to be cubed.}
 }
 \value{
 the cube of the input

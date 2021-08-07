@@ -7,7 +7,7 @@
 square(x)
 }
 \arguments{
-\item{x}{a numeric value}
+\item{x}{A numeric value.}
 }
 \value{
 The square of x

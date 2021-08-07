@@ -2,7 +2,7 @@
 #'
 #' takes a numeric value and squares it
 #'
-#' @param x a numeric value
+#' @param x A numeric value.
 #' @return The square of x
 #' @examples
 #' square(2)
@@ -19,7 +19,7 @@ square <- function(x) {
 #'
 #' takes a numeric value and cubes it
 #'
-#' @param  x Number to be cubed
+#' @param  x Number to be cubed.
 #' @return the cube of the input
 #' @examples
 #' cube(2)
