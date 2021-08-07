@@ -2,12 +2,12 @@
 % Please edit documentation in R/pow.r
 \name{cube}
 \alias{cube}
-\title{cube a number}
+\title{A cube function}
 \usage{
 cube(x)
 }
 \arguments{
-\item{Number}{to be cubed}
+\item{x}{Number to be cubed}
 }
 \value{
 the cube of the input
