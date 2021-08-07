@@ -11,3 +11,15 @@
 square <- function (x){
   return (x^2)
 }
+
+#' cube a number
+#'
+#' takes a numeric value and cubes it
+#'
+#' @param Number to be cubed
+#' @return the cube of the input
+#' @export
+
+cube <- function (x){
+  return (x^3)
+}

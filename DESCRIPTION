@@ -2,10 +2,10 @@ Package: dpl
 Type: Package
 Title: A function that squares
 Version: 0.1.0
-AuthorR: as.person("James Karimi <james_karimi@virgilio.it>")
+Author: James Karimi <james_karimi@virgilio.it>
 Maintainer: James Karimi <james_karimi@virgilio.it>
 Description: a function that squares a number.
-License: cc0
+License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
