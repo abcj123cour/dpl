@@ -15,3 +15,7 @@ The square of x
 \description{
 takes a numeric value and squares it
 }
+\examples{
+square(2)
+square(3)
+}

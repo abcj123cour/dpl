@@ -15,3 +15,7 @@ the cube of the input
 \description{
 takes a numeric value and cubes it
 }
+\examples{
+cube(2)
+cube(3)
+}
